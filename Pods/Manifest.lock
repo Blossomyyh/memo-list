@@ -1,0 +1,54 @@
+PODS:
+  - IQKeyboardManager (5.0.6)
+  - Material (2.12.13):
+    - Material/Core (= 2.12.13)
+  - Material/Core (2.12.13):
+    - Motion (~> 1.2.5)
+  - MGSwipeTableCell (1.6.7)
+  - Motion (1.2.5):
+    - Motion/Core (= 1.2.5)
+  - Motion/Core (1.2.5)
+  - Realm (3.7.1):
+    - Realm/Headers (= 3.7.1)
+  - Realm/Headers (3.7.1)
+  - RealmSwift (3.7.1):
+    - Realm (= 3.7.1)
+  - SnapKit (4.0.0)
+  - SVProgressHUD (2.2.2)
+  - SwipeCellKit (2.4.2)
+
+DEPENDENCIES:
+  - IQKeyboardManager
+  - Material
+  - MGSwipeTableCell
+  - RealmSwift
+  - SnapKit (~> 4.0.0)
+  - SVProgressHUD
+  - SwipeCellKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IQKeyboardManager
+    - Material
+    - MGSwipeTableCell
+    - Motion
+    - Realm
+    - RealmSwift
+    - SnapKit
+    - SVProgressHUD
+    - SwipeCellKit
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: 077b7f691dfa9d69db9cff66f2bed68ebfc02d9b
+  Material: 91e618c162203c48b677535aee662e1f8addc2c8
+  MGSwipeTableCell: fb20e983988bde2b8d0df29c2d9e1d8ffd10b74a
+  Motion: 88a8bee21926af792333f4b9e7170f710e9e48f3
+  Realm: 906be37d52f17f25484ac01643a7f26a9d3bfbd5
+  RealmSwift: 1c2b6bae3dc55bb87e080ffa96537d71442f6dce
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SVProgressHUD: 59b2d3dabacbd051576d21d32293ca7228dc18b0
+  SwipeCellKit: a01c587d6786f514a44eed54261e24eaa9fb4de6
+
+PODFILE CHECKSUM: b887de36e2af8713ef79d9aea3dad3433dd62912
+
+COCOAPODS: 1.5.3
